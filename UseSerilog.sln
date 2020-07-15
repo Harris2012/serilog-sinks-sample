@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseSerilog", "UseSerilog\UseSerilog.csproj", "{7BB57565-8FC4-4016-BCDB-0D76EF5F96AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serilog.Sinks.Sample", "Serilog.Sinks.Sample\Serilog.Sinks.Sample.csproj", "{49843887-63C9-4519-81AA-7F7FD7ACB088}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BB57565-8FC4-4016-BCDB-0D76EF5F96AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB57565-8FC4-4016-BCDB-0D76EF5F96AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB57565-8FC4-4016-BCDB-0D76EF5F96AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB57565-8FC4-4016-BCDB-0D76EF5F96AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49843887-63C9-4519-81AA-7F7FD7ACB088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49843887-63C9-4519-81AA-7F7FD7ACB088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49843887-63C9-4519-81AA-7F7FD7ACB088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49843887-63C9-4519-81AA-7F7FD7ACB088}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59FE53BB-1A7E-4C33-8C3A-D78B53B7D6A5}
+	EndGlobalSection
+EndGlobal
